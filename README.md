@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: #e3f2fd; background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); padding: 2rem; border-radius: 12px;">
 
 # 👋 Hey there, I'm Ebrima Samba
 
@@ -20,6 +20,8 @@
 </div>
 
 ---
+
+<div style="background-color: #f3e5f5; padding: 1.5rem; border-radius: 12px;">
 
 # 🚀 About Me
 
@@ -49,7 +51,11 @@ When I'm not shipping code, I moonlight as a **part-time prompt engineer**—I l
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div style="background-color: #e8f5e9; padding: 1.5rem; border-radius: 12px;">
 
 # 🧠 Tech Stack
 
@@ -84,7 +90,11 @@ When I'm not shipping code, I moonlight as a **part-time prompt engineer**—I l
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
+</div>
+
 ---
+
+<div style="background-color: #fff3e0; padding: 1.5rem; border-radius: 12px;">
 
 # 📱 Projects I'm Building
 
@@ -126,7 +136,11 @@ A real estate platform connecting buyers, renters, and property agents.
 - Vue.js (Admin Dashboard)
 - AdonisJS (Backend)
 
+</div>
+
 ---
+
+<div style="background-color: #e1f5fe; padding: 1.5rem; border-radius: 12px;">
 
 # 📊 The Numbers
 
@@ -166,7 +180,11 @@ A real estate platform connecting buyers, renters, and property agents.
 <img src="https://raw.githubusercontent.com/ebrimasamba/ebrimasamba/output/github-contribution-grid-snake.svg"/>
 </p>
 
+</div>
+
 ---
+
+<div style="background-color: #fce4ec; padding: 1.5rem; border-radius: 12px;">
 
 # 🌍 Let's Connect
 
@@ -183,9 +201,11 @@ A real estate platform connecting buyers, renters, and property agents.
   </a>
 </p>
 
+</div>
+
 ---
 
-<div align="center">
+<div align="center" style="background-color: #e8eaf6; padding: 1.5rem; border-radius: 12px;">
 
 ⭐ _Always open to collaborating on interesting projects and building impactful technology._
 
