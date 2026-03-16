@@ -12,7 +12,7 @@
 
 # 🚀 About Me
 
-🎓 Computer Science student at **University of The Gambia**
+🎓 **Computer Science** degree from **University of The Gambia**
 
 💻 Software Developer at **APS International**
 
@@ -21,6 +21,8 @@ I enjoy building **real-world technology products** that solve problems across A
 I specialize in **mobile applications, scalable web systems, and backend APIs**.
 
 My goal is to create **impactful software used by millions of people.**
+
+When I'm not shipping code, I moonlight as a **part-time prompt engineer**—I like to think I'm so good at it that even the AI reads my prompts twice. 😄
 
 ---
 
@@ -42,6 +44,7 @@ My goal is to create **impactful software used by millions of people.**
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
 
 ## Database
 
