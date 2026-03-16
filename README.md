@@ -99,11 +99,11 @@ A real estate platform connecting buyers, renters, and property agents.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ebrimasamba&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrimasamba&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@ A real estate platform connecting buyers, renters, and property agents.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=ebrimasamba&theme=tokyonight"/>
 </p>
 
 ---
@@ -119,7 +119,7 @@ A real estate platform connecting buyers, renters, and property agents.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ebrimasamba&theme=tokyo-night"/>
 </p>
 
 ---
@@ -127,7 +127,7 @@ A real estate platform connecting buyers, renters, and property agents.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ebrimasamba/ebrimasamba/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
