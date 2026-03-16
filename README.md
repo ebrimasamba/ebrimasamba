@@ -1,32 +1,59 @@
-# 👋 Hi, I'm Ebrima Samba
+<div align="center">
 
-<h3 align="center">Software Developer building scalable fintech & mobile apps in Africa</h3>
+# 👋 Hey there, I'm Ebrima Samba
 
-<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ebrimasamba&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+<h3>Software Developer building scalable fintech & mobile apps in Africa 🌍</h3>
+
+<p>
   <a href="https://github.com/ebrimasamba">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Developer;Fintech+Builder;Mobile+App+Engineer;Next.js+%7C+React+Native+%7C+AdonisJS;Building+Technology+for+Africa" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer;Fintech+Builder;Mobile+App+Engineer;Next.js+%7C+React+Native+%7C+AdonisJS;Building+Technology+for+Africa;Part-time+Prompt+Engineer+%F0%9F%A4%94" />
   </a>
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Coffee-%23FFDD00?style=for-the-badge&logo=coffee" />
+  <img src="https://img.shields.io/badge/Code-100%25%20bug--free-F7DF1E?style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-🎓 **Computer Science** degree from **University of The Gambia**
+<table>
+<tr>
+<td width="60%">
 
+🎓 **Computer Science** degree from **University of The Gambia**  
 💻 Software Developer at **APS International**
 
 I enjoy building **real-world technology products** that solve problems across Africa, particularly in **fintech, mobility, and digital platforms**.
 
 I specialize in **mobile applications, scalable web systems, and backend APIs**.
 
-My goal is to create **impactful software used by millions of people.**
+My goal is to create **impactful software used by millions of people.** ✨
 
 When I'm not shipping code, I moonlight as a **part-time prompt engineer**—I like to think I'm so good at it that even the AI reads my prompts twice. 😄
+
+</td>
+<td width="40%">
+
+### 😄 Random dev joke
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🧠 Tech Stack
+
+<p align="center"><i>Tools I use to turn coffee into code</i> ☕→💻</p>
 
 ## Frontend
 
@@ -60,6 +87,8 @@ When I'm not shipping code, I moonlight as a **part-time prompt engineer**—I l
 ---
 
 # 📱 Projects I'm Building
+
+<p align="center"><i>Stuff I'm actually building (not just planning)</i> 🛠️</p>
 
 ### 💳 APS Wallet
 
@@ -99,7 +128,11 @@ A real estate platform connecting buyers, renters, and property agents.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 The Numbers
+
+<p align="center">
+<i>Where I pretend stats matter</i> 📈
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ebrimasamba&show_icons=true&theme=tokyonight"/>
@@ -135,20 +168,27 @@ A real estate platform connecting buyers, renters, and property agents.
 
 ---
 
-# 🌍 Connect With Me
+# 🌍 Let's Connect
 
-<p align="left">
+<p align="center">
+  <i>Drop a hello, I don't bite (often)</i> 👋
+</p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
+<div align="center">
+
 ⭐ _Always open to collaborating on interesting projects and building impactful technology._
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=60&section=footer" width="100%" />
+
+</div>
